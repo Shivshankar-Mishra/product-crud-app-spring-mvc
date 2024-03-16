@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<beans>
-	<bean id="Constructor" class="com.jsp.spring_core_xml_project.xml.constructor.Student">
-	<constructor-arg index="0" value="1"/>
-	<constructor-arg index="1" value="manish"/>
-	<constructor-arg index="2" value="manish@mail.com"/>
-</bean>
-</beans>
